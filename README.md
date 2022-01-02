@@ -13,7 +13,7 @@
   <img align="center" alt="Guizera-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Guizera-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Guizera-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="right" alt="Guizera-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/69699602/147203433-e2a44177-c37c-4811-af09-bed27ecf04b0.png?width=676&height=676">
+  <!-- <img align="right" alt="Guizera-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/69699602/147203433-e2a44177-c37c-4811-af09-bed27ecf04b0.png?width=676&height=676"> -->
 </div>
   
   ##
