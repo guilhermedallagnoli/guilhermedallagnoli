@@ -1,4 +1,4 @@
-## <a href="https://youtu.be/dOchPfp2pXs?t=46" target="_blank"><Eaii, eu sou o Guilherme/></a>
+## <Eaii, eu sou o Guilherme/>
 
 <div align="center">
   <a href="https://github.com/guilhermedallagnoli">
