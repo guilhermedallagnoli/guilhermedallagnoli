@@ -21,7 +21,7 @@
   ##
  
 <div> 
-   <a target='_blank' href="https://twitter.com/dallagz" target="_blank">
+   <a target='_blank' href="https://twitter.com/dallag" target="_blank">
      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a>
   <a target='_blank' href = "mailto:guilhermedallagnoli1@gmail.com">
