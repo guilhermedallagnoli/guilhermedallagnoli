@@ -1,10 +1,10 @@
 ## <Eaii, eu sou o Guilherme/>
 
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/guilhermedallagnoli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermedallagnoli&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedallagnoli&layout=compact&langs_count=7&theme=great-gatsby"/>
-</div>
+</div>-->
   
 <!-- <div style="display: inline_block"><br>
   <img align="center" alt="RAD" height="40" width="40" src="https://dtffvb2501i0o.cloudfront.net/images/logos/rad-studio-logo-1024.webp">
