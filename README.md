@@ -19,7 +19,7 @@
   ##
  
 <div> 
-   <a target='_blank' href="https://twitter.com/" target="_blank">
+ <!--  <a target='_blank' href="https://twitter.com/" target="_blank">
      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a>
   <a target='_blank' href = "mailto:guilhermedallagnoli1@gmail.com">
@@ -30,7 +30,7 @@
   </a>
   <a target='_blank' href="https://instagram.com/g.dallag">
         <img src="https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+  </a> -->
  
 ![Snake animation](https://github.com/guilhermedallagnoli/guilhermedallagnoli/blob/output/github-contribution-grid-snake.svg)
  
